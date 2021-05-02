@@ -1,5 +1,7 @@
 # vue-crash-2021
 
+Setting up a Task Tracker in Vue.js
+
 ## Project setup
 ```
 npm install
